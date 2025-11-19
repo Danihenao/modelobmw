@@ -1,2 +1,2 @@
-# modelobmw
-Repositorio curso python Pro
+# Mi primer proyecto de analitica 
+Proyecto con BMW
